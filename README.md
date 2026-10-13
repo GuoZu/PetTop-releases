@@ -16,4 +16,4 @@ PetTop 0.2.2 起支援偵測新版，在應用程式內下載，再由使用者�
 
 安裝檔不要求簽章或公證，系統可能顯示來源提示。舊版程式需先手動安裝 0.2.2 或之後版本，才有程式內下載功能。
 
-目前尚未公開正式 Release。安裝檔準備完成後會提供於 [Releases](https://github.com/GuoZu/PetTop-releases/releases)，並附上 `SHA256SUMS.txt`。
+目前公開版本為 [PetTop 0.2.3](https://github.com/GuoZu/PetTop-releases/releases/tag/v0.2.3)。Mac Apple 晶片、Mac Intel 與 Windows x64 使用同一版來源同步打包，提供 DMG／EXE 及對應 ZIP，並附上 `SHA256SUMS.txt`。
